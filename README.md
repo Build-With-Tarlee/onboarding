@@ -99,7 +99,7 @@ This helps us understand your current level, your goals, and how to better suppo
 
 To keep this space welcoming, focused, and respectful, all members must follow the community code of conduct.
 
-👉 **[Read the Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vQfEwG3pG7eumZa9-OrEa-IjUr-0Qu14CQdYDRbUD9wwu2fzc9RTTaKrjMbcCrrpJLR0JEEyahtAhRz/pub)**
+👉 **[Read the Code of Conduct](https://build-with-tarlee.github.io/code-of-conduct/)**
 
 At its core:
 - Treat others with respect  
